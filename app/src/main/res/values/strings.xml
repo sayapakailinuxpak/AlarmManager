@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="toast_message_alarm_on">Alarm On!</string>
+    <string name="toast_message_alarm_off">Alarm Off</string>
+    <string name="notification_title">Today coder\'s quote</string>
+    <string name="notification_text">You should push yourself to understand system!</string>
+</resources>
